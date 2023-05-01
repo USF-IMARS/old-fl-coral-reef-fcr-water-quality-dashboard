@@ -16,3 +16,11 @@ Programs NOT included:
 3. DERM
 
 Can we access via API?
+
+### Since not all programs are included and some data seems stale (SERC), we may not be able to use this database.
+
+What could we develop for Y4 to facilitate data upload by providers?
+
+A form? An ERDDAP server?
+
+What format do the providers use currently? How can we streamline this process and couple to the visualization tool and upcoming DST?
